@@ -1,5 +1,5 @@
 [git-pair]
-    authors = Amos King <amos.king@asolutions.com>
+    authors = Todd Pickell <myappleguy@gmail.com.com>
 
 [color]
     ui = auto
@@ -62,7 +62,7 @@
 [include]
     path = .my_gitconfig
 [user]
-	name = Amos L King
-	email = amos.l.king@gmail.com
+	name = Todd Pickell
+	email = myappleguy@gmail.com
 [core]
 	editor = /usr/bin/vim
